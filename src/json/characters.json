@@ -41,17 +41,12 @@
 	"7":    { "ReservedBy": "Guhtati#5708" },               // Another Amy Rose 
 	"8":	{ "ReservedBy":	"Just Chris#0720" },		// Metal Knuckles
 	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
-	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Appel
-	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Shenkune
-	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Sam
-	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
-	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
+	
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 	"16":	{ "ReservedBy":	"Glitchy 8#4923" },		// Chiba Ayumi
 	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
 	
 	"19":	{ "ReservedBy": "Michael7#4814" },		// Another Fang
-	
 
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
@@ -61,13 +56,12 @@
 	"27":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn	
-
 	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
         "31":	{ "ReservedBy":	"Telejaba#2162" },		// Bunfriend
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
-	"33":   { "ReservedBy": "Casteor573#8336"},             // King The Memer 
-	"34":   { "ReservedBy": "Casteor573#8336"},             // King The Memer (decomp)
-	"35":   { "ReservedBy": "Casteor573#8336"},             // King The Memer (air)
+	"33":	{ "ReservedBy": "Casteor573#8336"},             // King The Memer 
+	"34":	{ "ReservedBy": "Casteor573#8336"},             // King The Memer (decomp)
+	"35":	{ "ReservedBy": "Casteor573#8336"},             // King The Memer (air)
 	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Smoke The Cat
 	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
 
@@ -77,14 +71,14 @@
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 	"47":	{ "ReservedBy": "Telejaba#2162" },		// :Fefe:
 
-	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
+	"52":	{ "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
 
 	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
 	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Cooper
 	
-	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Albert
+	"63":	{ "ReservedBy": "mrmrchris#8979" },  		// Albert
 
-	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
+	"66":	{ "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
 	
 	"73":	{ "ReservedBy":	"BLUΞ#1103" },			// The Noise
 	
@@ -95,55 +89,44 @@
 	"82":	{ "ReservedBy": "skidwithag#4249" },		// Shift
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
-	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-  "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
+	"85":	{ "ReservedBy": "plushnoob#3444" },		// smw Mario
+ 	"86":	{ "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
 	
-	"87":   { "ReservedBy": "CyanideJam#4267" },		// Ashura
-  "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+	"88":	{ "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
 	
-	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
-	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
+	"91":	{ "ReservedBy": "plushnoob#3444" },             // master system sonic
+	"92":	{ "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
 	
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
 	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
         
 	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // C.H.C. Jester
-  
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 	
 	"122":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Knuckles	
 	"123":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Tails
 	"124":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Sonic
-	
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
 	
-	"142":  { "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },		// Perry/Agent P
-	"143":	{ "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },		// TBD
-	
-	"144":	{ "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },		// TBD
+	"142":	{ "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },	// Perry/Agent P
+	"143":	{ "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },	// TBD
+	"144":	{ "ReservedBy": "Ferbs_ (TailsOrigins)#8772" },	// TBD
 	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
-        "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
- 
+        "156":	{ "ReservedBy":	"Davil#6098" },		        //Davil The Android
 	
-	"163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
-	"164":   { "ReservedBy": "BlueHotMess"},             // ???
-	"165":   { "ReservedBy": "BlueHotMess"},             // ???
+	"163":	{ "ReservedBy" : "BlueHotMess" },		// Mecha Sonic MK.II
+	"164":	{ "ReservedBy": "BlueHotMess"},         	// ???
+	"165":	{ "ReservedBy": "BlueHotMess"},         	// ???
 
-        "192":	{ "ReservedBy":	"montydoesgames" },          //Kirby
+        "192":	{ "ReservedBy":	"montydoesgames" },          	//Kirby
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
-
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-	  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
-
-	  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
-
-	  "242":  { "ReservedBy": "Shaded#0834" },                 // Megamix Sonic
-
-	  "243":  { "ReservedBy": "Shaded#0834" },                 // Megamix Knuckles
-
-	  "244":  { "ReservedBy": "Shaded#0834" }                  // Misery
-	
+	"240":	{ "ReservedBy": "Shaded#0834" },		// Quote
+	"241":	{ "ReservedBy": "Shaded#0834" },		// Curly
+	"242":	{ "ReservedBy": "Shaded#0834" },		// Megamix Sonic
+	"243":	{ "ReservedBy": "Shaded#0834" },		// Megamix Knuckles
+	"244":  { "ReservedBy": "Shaded#0834" }			// Misery
 }
